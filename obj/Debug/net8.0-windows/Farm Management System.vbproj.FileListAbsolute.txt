@@ -1,0 +1,66 @@
+C:\Users\Hp\OneDrive\Desktop\KCA STUFF\Farm Management System\obj\Debug\net8.0-windows\Farm_Management_System.FormCrops.resources
+C:\Users\Hp\OneDrive\Desktop\KCA STUFF\Farm Management System\obj\Debug\net8.0-windows\Farm_Management_System.frmFinance.resources
+C:\Users\Hp\OneDrive\Desktop\KCA STUFF\Farm Management System\obj\Debug\net8.0-windows\Farm_Management_System.FormMainMenu.resources
+C:\Users\Hp\OneDrive\Desktop\KCA STUFF\Farm Management System\obj\Debug\net8.0-windows\Farm Management System.vbproj.GenerateResource.cache
+C:\Users\Hp\OneDrive\Desktop\KCA STUFF\Farm Management System\obj\Debug\net8.0-windows\Farm Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\OneDrive\Desktop\KCA STUFF\Farm Management System\obj\Debug\net8.0-windows\Farm Management System.AssemblyInfoInputs.cache
+C:\Users\Hp\OneDrive\Desktop\KCA STUFF\Farm Management System\obj\Debug\net8.0-windows\Farm Management System.AssemblyInfo.vb
+C:\Users\Hp\OneDrive\Desktop\KCA STUFF\Farm Management System\obj\Debug\net8.0-windows\Farm Management System.vbproj.CoreCompileInputs.cache
+C:\Users\Hp\OneDrive\Desktop\KCA STUFF\Farm Management System\obj\Debug\net8.0-windows\Farm_Management_System.frmEmployee.resources
+C:\Users\Hp\OneDrive\Desktop\KCA STUFF\Farm Management System\obj\Debug\net8.0-windows\Farm_Management_System.frmLivestock.resources
+C:\Users\Hp\OneDrive\Desktop\KCA STUFF\Farm Management System\obj\Debug\net8.0-windows\Farm_Management_System.frmReports.resources
+C:\Users\Hp\OneDrive\Desktop\KCA STUFF\Farm Management System\bin\Debug\net8.0-windows\Farm Management System.exe
+C:\Users\Hp\OneDrive\Desktop\KCA STUFF\Farm Management System\bin\Debug\net8.0-windows\Farm Management System.deps.json
+C:\Users\Hp\OneDrive\Desktop\KCA STUFF\Farm Management System\bin\Debug\net8.0-windows\Farm Management System.runtimeconfig.json
+C:\Users\Hp\OneDrive\Desktop\KCA STUFF\Farm Management System\bin\Debug\net8.0-windows\Farm Management System.dll
+C:\Users\Hp\OneDrive\Desktop\KCA STUFF\Farm Management System\bin\Debug\net8.0-windows\Farm Management System.pdb
+C:\Users\Hp\OneDrive\Desktop\KCA STUFF\Farm Management System\obj\Debug\net8.0-windows\Farm Management System.dll
+C:\Users\Hp\OneDrive\Desktop\KCA STUFF\Farm Management System\obj\Debug\net8.0-windows\refint\Farm Management System.dll
+C:\Users\Hp\OneDrive\Desktop\KCA STUFF\Farm Management System\obj\Debug\net8.0-windows\Farm Management System.pdb
+C:\Users\Hp\OneDrive\Desktop\KCA STUFF\Farm Management System\obj\Debug\net8.0-windows\Farm Management System.genruntimeconfig.cache
+C:\Users\Hp\OneDrive\Desktop\KCA STUFF\Farm Management System\obj\Debug\net8.0-windows\ref\Farm Management System.dll
+C:\Users\Hp\OneDrive\Desktop\KCA STUFF\Farm Management System\obj\Debug\net8.0-windows\Farm_Management_System.Login.resources
+D:\Farm Management System\bin\Debug\net8.0-windows\Farm Management System.exe
+D:\Farm Management System\bin\Debug\net8.0-windows\Farm Management System.deps.json
+D:\Farm Management System\bin\Debug\net8.0-windows\Farm Management System.runtimeconfig.json
+D:\Farm Management System\bin\Debug\net8.0-windows\Farm Management System.dll
+D:\Farm Management System\bin\Debug\net8.0-windows\Farm Management System.pdb
+D:\Farm Management System\obj\Debug\net8.0-windows\Farm_Management_System.FormCrops.resources
+D:\Farm Management System\obj\Debug\net8.0-windows\Farm_Management_System.frmEmployee.resources
+D:\Farm Management System\obj\Debug\net8.0-windows\Farm_Management_System.frmFinance.resources
+D:\Farm Management System\obj\Debug\net8.0-windows\Farm_Management_System.frmLivestock.resources
+D:\Farm Management System\obj\Debug\net8.0-windows\Farm_Management_System.Login.resources
+D:\Farm Management System\obj\Debug\net8.0-windows\Farm_Management_System.FormMainMenu.resources
+D:\Farm Management System\obj\Debug\net8.0-windows\Farm_Management_System.frmReports.resources
+D:\Farm Management System\obj\Debug\net8.0-windows\Farm Management System.vbproj.GenerateResource.cache
+D:\Farm Management System\obj\Debug\net8.0-windows\Farm Management System.GeneratedMSBuildEditorConfig.editorconfig
+D:\Farm Management System\obj\Debug\net8.0-windows\Farm Management System.AssemblyInfoInputs.cache
+D:\Farm Management System\obj\Debug\net8.0-windows\Farm Management System.AssemblyInfo.vb
+D:\Farm Management System\obj\Debug\net8.0-windows\Farm Management System.vbproj.CoreCompileInputs.cache
+D:\Farm Management System\obj\Debug\net8.0-windows\Farm Management System.dll
+D:\Farm Management System\obj\Debug\net8.0-windows\refint\Farm Management System.dll
+D:\Farm Management System\obj\Debug\net8.0-windows\Farm Management System.pdb
+D:\Farm Management System\obj\Debug\net8.0-windows\Farm Management System.genruntimeconfig.cache
+D:\Farm Management System\obj\Debug\net8.0-windows\ref\Farm Management System.dll
+A:\Farm Management System\bin\Debug\net8.0-windows\Farm Management System.exe
+A:\Farm Management System\bin\Debug\net8.0-windows\Farm Management System.deps.json
+A:\Farm Management System\bin\Debug\net8.0-windows\Farm Management System.runtimeconfig.json
+A:\Farm Management System\bin\Debug\net8.0-windows\Farm Management System.dll
+A:\Farm Management System\bin\Debug\net8.0-windows\Farm Management System.pdb
+A:\Farm Management System\obj\Debug\net8.0-windows\Farm_Management_System.FormCrops.resources
+A:\Farm Management System\obj\Debug\net8.0-windows\Farm_Management_System.frmEmployee.resources
+A:\Farm Management System\obj\Debug\net8.0-windows\Farm_Management_System.frmFinance.resources
+A:\Farm Management System\obj\Debug\net8.0-windows\Farm_Management_System.frmLivestock.resources
+A:\Farm Management System\obj\Debug\net8.0-windows\Farm_Management_System.Login.resources
+A:\Farm Management System\obj\Debug\net8.0-windows\Farm_Management_System.FormMainMenu.resources
+A:\Farm Management System\obj\Debug\net8.0-windows\Farm_Management_System.frmReports.resources
+A:\Farm Management System\obj\Debug\net8.0-windows\Farm Management System.vbproj.GenerateResource.cache
+A:\Farm Management System\obj\Debug\net8.0-windows\Farm Management System.GeneratedMSBuildEditorConfig.editorconfig
+A:\Farm Management System\obj\Debug\net8.0-windows\Farm Management System.AssemblyInfoInputs.cache
+A:\Farm Management System\obj\Debug\net8.0-windows\Farm Management System.AssemblyInfo.vb
+A:\Farm Management System\obj\Debug\net8.0-windows\Farm Management System.vbproj.CoreCompileInputs.cache
+A:\Farm Management System\obj\Debug\net8.0-windows\Farm Management System.dll
+A:\Farm Management System\obj\Debug\net8.0-windows\refint\Farm Management System.dll
+A:\Farm Management System\obj\Debug\net8.0-windows\Farm Management System.pdb
+A:\Farm Management System\obj\Debug\net8.0-windows\Farm Management System.genruntimeconfig.cache
+A:\Farm Management System\obj\Debug\net8.0-windows\ref\Farm Management System.dll
